@@ -15,3 +15,6 @@
 - jump power
 - cframe walk
 - flight
+
+## Info
+for additional info, you can join our [discord server](https://discord.gg/fHsbrDfPtj)
