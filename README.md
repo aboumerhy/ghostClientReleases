@@ -17,4 +17,4 @@
 - flight
 
 ## Info
-for additional info, you can join our [discord server](https://discord.gg/fHsbrDfPtj)
+for additional info, you can join our [discord server](https://discord.gg/fHsbrDfPtj) or, if you already have a key, you can [download the latest version](https://github.com/aboumerhy/ghostClientReleases/releases/tag/Release)
