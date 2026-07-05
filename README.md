@@ -9,6 +9,7 @@
 - aimbot
 - silent-aim
 - alive check
+- orbit
 
 ### Player
 - speed
